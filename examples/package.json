@@ -7,8 +7,8 @@
     "start": "ts-node index.ts"
   },
   "dependencies": {
-    "@noir-lang/backend_barretenberg": "^0.19.4",
-    "@noir-lang/noir_js": "^0.19.4",
+    "@noir-lang/backend_barretenberg": "0.20.0-050a3cf.nightly",
+    "@noir-lang/noir_js": "0.20.0-050a3cf.nightly",
     "@types/node": "^20.10.3",
     "node-fetch": "^3.3.2",
     "toml": "^3.0.0",
