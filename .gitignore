@@ -3,3 +3,6 @@
 # Nargo outputs
 /proofs
 debug_dkim.json
+node_modules
+
+crs/
